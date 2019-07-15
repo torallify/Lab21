@@ -14,7 +14,7 @@ namespace GCCoffee.Models
 		[EmailAddress]
 		public string Email { get; set; }
 
-        [Password]
+        
 		public string Password { get; set; }
 	}
 }
